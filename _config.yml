@@ -1,0 +1,28 @@
+name: Sk8Skins
+favicon: null
+layout_spectrum: 0.9584422421175987
+typography_spectrum: 0.7216706422623247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24134003068320453
+  lightness: 0.07927312538959086
+  saturation: 0.5572188477963209
+  rhythmicContrast: 0.8327262930106372
+purpose: []
