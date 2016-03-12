@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Home of Sk8Skins]]></title>
         <description><![CDATA[The Home of Sk8Skins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sk8skins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 01:50:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 02:02:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sk8skins/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c1b7972-f567-4033-9bf9-b9908fc0c965.jpg">]]></description>
+            <link>https://thegrid.ai/sk8skins/sk8skins-review-by-kody-walker/index.html</link>
+            <guid isPermaLink="false">fb5cb609-1e8e-4923-9495-77f1481c3300</guid>
+            <pubDate>Sat, 12 Mar 2016 02:01:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Show mom how you can save your shoes</p>]]></description>
-            <link>undefinedshow-mom-how-you-can-save-your-shoes/index.html</link>
+            <link>https://thegrid.ai/sk8skins/show-mom-how-you-can-save-your-shoes/index.html</link>
             <guid isPermaLink="false">67938e5c-2dc2-4185-9abd-4df284bd2e60</guid>
             <pubDate>Sat, 12 Mar 2016 01:49:57 GMT</pubDate>
         </item>
